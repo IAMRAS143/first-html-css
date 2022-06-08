@@ -1,0 +1,158 @@
+a{
+  color: #827397;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #e9d5ca;
+}
+
+
+
+.buttonClass {
+	box-shadow: 0 10px 14px -7px #363062;
+	background:linear-gradient(to bottom, #725f8c 5%, #4d4c7d 100%);
+	background-color:#725f8c;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#e9d5ca;
+	font-family: 'Merriweather', serif;
+	font-size:20px;
+	font-weight:lighter;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+  margin-bottom: 50px;
+}
+.buttonClass:hover {
+	background:linear-gradient(to bottom, #4d4c7d 5%, #725f8c 100%);
+	background-color:#4d4c7d;
+}
+.buttonClass:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+body{
+  margin: 0 0 0 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.contacttex{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copyright{
+  color: #E9D5CA;
+  font-size: 0.75rem;
+  font-family: 'Montserrat', sans-serif;
+  padding: 20px 0;
+
+}
+ h1{
+   color: #E9D5CA;
+   font-family: 'Sacramento', cursive;
+   font-size: 5.625rem;
+   margin: 50px auto 0 auto ;
+   line-height: 2;
+
+
+ }
+
+ h2{
+   color:#E9D5CA;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 2.5rem;
+   font-weight: normal;
+ }
+
+h3{
+  color: #363062;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+   border-style: dotted;
+   border-width: 6px;
+   border-bottom: none;
+   width: 6%;
+   color: #363062;
+   margin: 100px auto 100px  auto;
+
+
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+p{
+  line-height: 2;
+}
+
+
+.top{
+  background-color: #363062;
+  position:relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  background-color: #827397;
+
+}
+
+.bottom-container{
+  background-color: #363062;
+padding: 30px 0 20px;
+}
+
+
+.moontop{
+  position: absolute;
+  top: 50px;
+  right: 100px;
+  width:20%;
+}
+
+.mountain{
+  margin-bottom: 0;
+}
+.topcloud{
+  position: absolute;
+  top: 350px;
+  left: 210px;
+}
+
+.rehanprof{
+  width:16%;
+  padding-top: 100px;
+}
+
+.skillimg{
+  width:25%;
+float: left;
+margin-right: 30px;
+
+}
+.skill-row{
+  margin: 85px auto 100px auto;
+  text-align: left;
+
+
+  width: 50%;
+}
+.skills{
+  padding: 10px 0 20px;
+}
+
+.seleno{
+  width:25%;
+  float: right;
+  margin-right: 30px;
+}
